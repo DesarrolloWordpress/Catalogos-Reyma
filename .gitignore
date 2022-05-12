@@ -8,3 +8,6 @@ node_modules/
 
 # ignore files
 *.zip
+StoneSteel/
+Megapanel/
+Benol/
